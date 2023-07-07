@@ -39,7 +39,7 @@
 		}
 
 		body.modal-active & {
-			@include vendor('filter', 'blur(8px)');
+			@include vendor('filter', 'blur(20px)');
 
 			&:after {
 				@include vendor('pointer-events', 'auto');

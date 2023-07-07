@@ -1316,11 +1316,11 @@
 			}
 
 		body.modal-active #wrapper {
-			-moz-filter: blur(8px);
-			-webkit-filter: blur(8px);
-			-ms-filter: blur(8px);
-			filter: blur(8px);
-		}
+			-moz-filter: blur(20px);
+			-webkit-filter: blur(20px);
+			-ms-filter: blur(20px);
+			filter: blur(20px);
+}
 
 			body.modal-active #wrapper:after {
 				-moz-pointer-events: auto;
@@ -1621,11 +1621,11 @@
 			}
 
 		body.content-active #main {
-			-moz-filter: blur(6px);
-			-webkit-filter: blur(6px);
-			-ms-filter: blur(6px);
-			filter: blur(6px);
-		}
+			-moz-filter: blur(20px);
+			-webkit-filter: blur(20px);
+			-ms-filter: blur(20px);
+			filter: blur(20px);
+}
 
 			body.content-active #main:after {
 				-moz-pointer-events: auto;
