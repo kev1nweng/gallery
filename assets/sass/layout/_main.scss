@@ -92,7 +92,7 @@
 		}
 
 		body.content-active & {
-			@include vendor('filter', 'blur(20px)');
+			@include vendor('filter', 'blur(6px)');
 
 			&:after {
 				@include vendor('pointer-events', 'auto');
