@@ -1316,10 +1316,10 @@
 			}
 
 		body.modal-active #wrapper {
-			-moz-filter: blur(6px);
-			-webkit-filter: blur(6px);
-			-ms-filter: blur(6px);
-			filter: blur(6px);
+			-moz-filter: blur(20px);
+			-webkit-filter: blur(20px);
+			-ms-filter: blur(20px);
+			filter: blur(20px);
 }
 
 			body.modal-active #wrapper:after {
@@ -1621,10 +1621,10 @@
 			}
 
 		body.content-active #main {
-			-moz-filter: blur(6px);
-			-webkit-filter: blur(6px);
-			-ms-filter: blur(6px);
-			filter: blur(6px);
+			-moz-filter: blur(20px);
+			-webkit-filter: blur(20px);
+			-ms-filter: blur(20px);
+			filter: blur(20px);
 }
 
 			body.content-active #main:after {
